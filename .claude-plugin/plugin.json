@@ -1,0 +1,23 @@
+{
+  "name": "context-toolkit",
+  "displayName": "CONTEXT.md Toolkit",
+  "description": "Implements the CONTEXT.md workflow system for managing human-authored context and agent-ready briefings in Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/Claude-Code-Context-Toolkit"
+  },
+  "keywords": [
+    "context",
+    "context-management",
+    "agent-briefing",
+    "workflow",
+    "documentation"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "CONTEXT.md Toolkit Marketplace",
+  "description": "Official marketplace for the CONTEXT.md workflow plugin",
+  "owner": {
+    "name": "Daniel Rosehill",
+    "url": "https://danielrosehill.com",
+    "email": "public@danielrosehill.com"
+  },
+  "plugins": [
+    {
+      "name": "context-toolkit",
+      "source": ".",
+      "description": "Implements the CONTEXT.md workflow system for managing human-authored context and agent-ready briefings",
+      "version": "1.0.0",
+      "author": "Daniel Rosehill",
+      "keywords": ["context", "context-management", "agent-briefing", "workflow", "documentation"],
+      "repository": "https://github.com/danielrosehill/Claude-Code-Context-Toolkit"
+    }
+  ]
+}
