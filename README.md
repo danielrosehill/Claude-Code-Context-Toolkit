@@ -159,15 +159,6 @@ your-repo/
 - Use descriptive filenames (kebab-case)
 - Maintain index in context-data/README.md
 
-## Philosophy
-
-This plugin embraces the idea that:
-- Human and machine communication are just different dialects
-- Forcing humans to write like robots is counterproductive
-- LLMs should adapt to human expression, not vice versa
-- Simple markdown files can be highly effective for context delivery
-- Version control (Git) is an excellent context management tool
-
 ## Related Projects
 
 - [CONTEXT.md Specification](https://github.com/danielrosehill/CONTEXT.md) - Original concept and notes
@@ -183,10 +174,6 @@ This plugin embraces the idea that:
 ## License
 
 MIT License - See LICENSE file for details
-
-## Contributing
-
-Contributions welcome! Please see CONTRIBUTING.md for guidelines.
 
 ## Feedback
 
